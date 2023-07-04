@@ -1,0 +1,15 @@
+C:\Users\paulo\Documents\dev\conference\src\Conference.Application\bin\Debug\net7.0\Conference.Application.deps.json
+C:\Users\paulo\Documents\dev\conference\src\Conference.Application\bin\Debug\net7.0\Conference.Application.dll
+C:\Users\paulo\Documents\dev\conference\src\Conference.Application\bin\Debug\net7.0\Conference.Application.pdb
+C:\Users\paulo\Documents\dev\conference\src\Conference.Application\bin\Debug\net7.0\Conference.Domain.dll
+C:\Users\paulo\Documents\dev\conference\src\Conference.Application\bin\Debug\net7.0\Conference.Domain.pdb
+C:\Users\paulo\Documents\dev\conference\src\Conference.Application\obj\Debug\net7.0\Conference.Application.csproj.AssemblyReference.cache
+C:\Users\paulo\Documents\dev\conference\src\Conference.Application\obj\Debug\net7.0\Conference.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Documents\dev\conference\src\Conference.Application\obj\Debug\net7.0\Conference.Application.AssemblyInfoInputs.cache
+C:\Users\paulo\Documents\dev\conference\src\Conference.Application\obj\Debug\net7.0\Conference.Application.AssemblyInfo.cs
+C:\Users\paulo\Documents\dev\conference\src\Conference.Application\obj\Debug\net7.0\Conference.Application.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Documents\dev\conference\src\Conference.Application\obj\Debug\net7.0\Conference.Application.csproj.CopyComplete
+C:\Users\paulo\Documents\dev\conference\src\Conference.Application\obj\Debug\net7.0\Conference.Application.dll
+C:\Users\paulo\Documents\dev\conference\src\Conference.Application\obj\Debug\net7.0\refint\Conference.Application.dll
+C:\Users\paulo\Documents\dev\conference\src\Conference.Application\obj\Debug\net7.0\Conference.Application.pdb
+C:\Users\paulo\Documents\dev\conference\src\Conference.Application\obj\Debug\net7.0\ref\Conference.Application.dll
